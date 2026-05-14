@@ -32,8 +32,8 @@ export default function Portfolio() {
 
   const personalInfo = {
     name: "Dr. Anshu Sahu",
-    title: "Research Associate | Advanced Manufacturing Technology",
-    description: "Specializing in Laser μ-3D Printing, Shape Memory Alloys, and Advanced Manufacturing Technologies",
+    title: "Assistant Professor  | SRM University-AP",
+    description: "Advanced Manufacturing Technology, Specializing in Laser μ-3D Printing, Shape Memory Alloys, and Advanced Manufacturing Technologies",
     email: "anshusahunov@gmail.com",
     phone: "+91-9450931991",
     location: "IIT Indore, India",
