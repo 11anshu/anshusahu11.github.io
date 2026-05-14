@@ -32,11 +32,11 @@ export default function Portfolio() {
 
   const personalInfo = {
     name: "Dr. Anshu Sahu",
-    title: "Research Associate | Advanced Manufacturing Technology",
+    title: "Assistant Professor | Advanced Manufacturing Technology",
     description: "Specializing in Laser μ-3D Printing, Shape Memory Alloys, and Advanced Manufacturing Technologies",
     email: "anshusahunov@gmail.com",
     phone: "+91-9450931991",
-    location: "IIT Indore, India",
+    location: "SRM University-AP, India",
     profileImage: "/pfp.jpg",
     dateOfBirth: "November 11, 1992",
     nationality: "Indian",
