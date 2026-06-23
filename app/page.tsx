@@ -345,7 +345,7 @@ export default function Portfolio() {
                     <h4 className="font-semibold mb-4 text-purple-700 text-lg">Current Position</h4>
                     <div className="space-y-2 text-sm">
                       <p>
-                        <strong>Position:</strong> Research Associate
+                        <strong>Position:</strong> Assistant Professor 
                       </p>
                       <p>
                         <strong>Institution:</strong> IIT Indore
